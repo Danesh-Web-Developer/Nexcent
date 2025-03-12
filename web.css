@@ -56,7 +56,9 @@
 .mainRow{
     width: 100% !important;
     margin-left: 20px;
-    gap: 100px;
+    gap: 20px;
+    display: flex;
+    justify-content: space-between;
 }
 .cards{
     height: 250px !important;
